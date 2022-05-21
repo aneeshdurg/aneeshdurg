@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm aneesh (pronouns: he/him)! Currently a developer at [KatanaGraph](https://github.com/KatanaGraph) where I work on designing and implementing novel algorithms for a fast, scalable subgraph pattern matcher for a graph database that implements [OpenCypher](https://github.com/OpenCypher/OpenCypher)!
+
+I like learning things and playing around with technology - poke around my repositories to see what I'm currently interested in!
 
 <!--
 **aneeshdurg/aneeshdurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
