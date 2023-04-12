@@ -2,6 +2,8 @@ I'm aneesh (pronouns: he/him)! Currently a developer at [KatanaGraph](https://gi
 
 I like learning things and playing around with technology - poke around my repositories to see what I'm currently interested in!
 
+My homepage: [aneeshdurg.me](https://aneeshdurg.me/)
+
 <!--
 **aneeshdurg/aneeshdurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
