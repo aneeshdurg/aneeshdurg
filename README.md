@@ -1,4 +1,4 @@
-I'm aneesh (pronouns: he/him)! Currently a developer at [bodo.ai](https://bodo.ai) working on a compiler for transforming SQL and pandas workloads into fast, scalable, distributed programs!
+I'm aneesh (pronouns: he/him)! Currently a developer at [bodo.ai](https://bodo.ai) working on a compiler for transforming SQL and pandas workloads into fast, scalable, distributed programs! Previously at [KatanaGraph](https://github.com/KatanaGraph/) working on distributed graph mining.
 
 I like learning things and playing around with technology - poke around my repositories to see what I'm currently interested in!
 
