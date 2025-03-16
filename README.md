@@ -2,7 +2,7 @@ I'm aneesh (pronouns: he/him)! Currently I am:
 
 + (part-time) AI Software Engineer at [corvic](https://corvic.ai)
 + member/admin for <https://moontowercomputer.club>
-+ deciding where I'll be starting my PhD journey this fall :D
++ incoming CS PhD student @ UT Austin (fa' 25)!
 
 Other places I've worked:
   + [bodo.ai](https://bodo.ai) working on a compiler for transforming SQL and pandas workloads into fast, scalable, distributed programs
