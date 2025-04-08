@@ -1,6 +1,6 @@
 I'm aneesh (pronouns: he/him)! Currently I am:
 
-+ (part-time) AI Software Engineer at [corvic](https://corvic.ai)
++ AI Software Engineer at [corvic](https://corvic.ai)
 + member/admin for <https://moontowercomputer.club>
 + incoming CS PhD student @ UT Austin (fa' 25)!
 
