@@ -1,6 +1,6 @@
 I'm aneesh (pronouns: he/him)! Currently I am:
 
-+ CS PhD student @ UT Austin researching ML for systems
++ CS PhD student @ UT Austin researching OS Design, Storage/Filesystems, and MLSys
 + member/admin for <https://moontowercomputer.club>
 
 Other places I've worked:
